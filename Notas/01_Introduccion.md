@@ -7,8 +7,8 @@
 
       Sigue un estándar llamado ANSI SQL, que asegura que funcione igual en distintos sistemas (MySQL, SQL Server, PostgreSQL, Oracle).
 
-      > **Analogía sencilla:**  
-      > SQL es como aprender inglés básico: aunque cada país tenga modismos, las reglas universales permiten que todos se entiendan.
+   > **Analogía sencilla:**  
+   > SQL es como aprender inglés básico: aunque cada país tenga modismos, las reglas universales permiten que todos se entiendan.
 
 
 
