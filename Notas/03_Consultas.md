@@ -1,9 +1,9 @@
 [REGRESAR](../README.md)  
 
- **Consultas**
-   - `SELECT` básico
-   - Filtrar resultados con `WHERE`
-   - Ordenar resultados (`ORDER BY`)
-   - Operadores lógicos (`AND`, `OR`, `NOT`)
+![CONSULTAS](../Ejercicios/img/Consultas.png)
 
+
+
+  - Ordenar resultados (`ORDER BY`)
+  - Operadores lógicos (`AND`, `OR`, `NOT`)
 [REGRESAR](../README.md)  
